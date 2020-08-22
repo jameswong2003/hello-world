@@ -1,3 +1,3 @@
 # hello-world
 first repository
-Making a edit
+making my first edit
